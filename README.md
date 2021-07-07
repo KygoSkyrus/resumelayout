@@ -1,3 +1,4 @@
 # rep
-the first try
-my projects as a beginner.
+
+my first projects as a beginner.
+used basic html/css
